@@ -8,7 +8,7 @@ Udacity Data Analyst Nanodegree Project 2
 - **Clean & Aggregate Data for Use:** Utilized Python to analyze IQAir index data and World population data. Performed data cleaning and EDA to explore and analyze the targeted 2017 – 2021 time series data.
 - **Identify the top 10 markets for Product Launch:** Air Purifiers need dirty air to clean – knowing the worst countries and cities in terms of Air Polution would hierarchically rank the potential sales markets for the impending Air Purifier product launch.
 
-![Screenshot of Population Impact on Air Quality Scatter Plot](https://github.com/sarahbeze/Prosper-Loans-Communicate-Data-Findings/blob/main/prosper01-1024x599.webp)
+![Screenshot of Population Impact on Air Quality Scatter Plot](https://github.com/sarahbeze/Air-Quality-Index-Population-Data-Wrangling/blob/main/air-quality3-1024x742.webp)
 
 ## Insights & Impact:
 
